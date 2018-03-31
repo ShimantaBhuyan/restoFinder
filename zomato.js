@@ -87,7 +87,7 @@ var Zomato = {
         req.open(opts.type === undefined ? "GET" : opts.type, opts.url, true);
         //setting headers
         req.setRequestHeader("Content-type", "application/x-www-form-urlencoded");      
-        req.setRequestHeader('X-Zomato-API-Key', '383be2db313c5b9797bdfec9671e8dd3');
+        req.setRequestHeader('X-Zomato-API-Key', USER_KEY);
         /*if (opts.headers !== undefined || typeof opts.headers === "object") {
             for (var index = 0; index < Object.keys(opts.headers).length; index++) {
                 req.setRequestHeader(Object.keys(opts.headers)[index], opts.headers[Object.keys(opts.headers)[index]]);
