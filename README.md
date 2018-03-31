@@ -6,7 +6,7 @@
 
 <h2>Screenshots of Application:<h2>
 <h3>Home Page of application</h3>
-<img src="img/"home.png">
+<img src="img/home.png">
 <hr>
 <h3>Restaurants by city</h3>
 <img src="img/home2.png">
