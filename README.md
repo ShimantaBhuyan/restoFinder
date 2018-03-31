@@ -9,7 +9,7 @@
 <img src="img/home.png">
 <hr>
 <h3>Restaurants by city</h3>
-<img src="img/home2.png">
+<img src="img/home2.jpg">
 <hr>
 <h3>Restaurant search in a city</h3>
 <img src="img/home3.png">
